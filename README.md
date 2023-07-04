@@ -1,1 +1,1 @@
-# cube-js-sample
+# cube-js-sampless
